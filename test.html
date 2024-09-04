@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Country Search</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .search-container {
+            margin: 20px;
+        }
+        padding: 0;
+        max-width: 300px;
+        margin: 0 auto;
+    }
+    .country-list li {
+        margin: 5px 0;
+    }
+    .country-list a {
+        text-decoration: none;
+        color: blue;
+    }
+    .country-list a:hover {
+        text-decoration: underline;
+    }
+    .search-bar {
+        width: 100%;
+        padding: 8px;
+        margin-bottom: 10px;
+        box-sizing: border-box;
+    }
+    </style>
+</head>
+<body>
+    <div class="search-container">
+        <input type="text" class="search-bar" placeholder="Search for a country..." oninput="filterCountries(this.value)">
+        <ul class="country-list" id="countryList">
+            <li><a href="country1.html">Country 1</a></li>
+            <li><a href="country2.html">Country 2</a></li>
+            <li><a href="country3.html">Country 3</a></li>
+            <!-- Add more countries as needed -->
+        </ul>
+    </div>
+
+    <script>
+        // Placeholder function to mimic search functionality
+        function filterCountries(searchValue) {
+            const listItems = document.querySelectorAll('#countryList li');
+            listItems.forEach(item => {
+                if (item.textContent.toLowerCase().includes(searchValue.toLowerCase())) {
+                    item.style.display = '';
+                } else {
+                    item.style.display = 'none';
+                }
+            });
+        }
+    </script>
+</body>
+</html>
+
