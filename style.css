@@ -2,23 +2,6 @@
     width: 100px;
 }
 .logo-container {
-    display:flex;
-    flex-direction:row;
-    align-items: center;
-    background-color:rgb(62, 62, 205);
-    color: white;
-}
-body {
-    font-family: Arial, sans-serif;
-}
-.search-container {
-    margin: 20px;
-}
-.search-bar {
-width: 100%;
-padding: 10px;
-margin-bottom: 10px;
-box-sizing: border-box;
     align-items: center;
     display:flex;
 
@@ -48,15 +31,15 @@ box-sizing: border-box;
     opacity:50%;
 }
 .country-title {
+    display: flex;
     flex-direction: row;
     align-items: center;
 }
-div {
-    display: flex;
-}
 .country-flag {
+    display: flex;
     width: 60px;
 }
+
 .mapimage {
     z-index: 1;
     width:100%;
@@ -75,3 +58,4 @@ div {
     left:449px;
     top:469px;
 }
+
