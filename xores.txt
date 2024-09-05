@@ -44,53 +44,112 @@ Aπαγορεύεται η οδήγηση κάτω από την χρήση απ
 Από την 1η Νοεμβρίου έως τις 31 Μαρτίου, τα χειμερινά ελαστικά (ή η κατοχή αντιολισθητικών αλυσίδων) είναι υποχρεωτικά στις ορεινές περιοχές όταν αυτή η πινακίδα οδικής σήμανσης είναι τοποθετημένη παραπλεύρως της οδού
 ΛΟΥΞΕΜΒΟΥΡΓΟ
 
-ΓΕΡΜΑΝΙΑ
+GERMANY
 4.A
-5.Υποχρεωτική χρήση εκτός
-    Οδηγοί ταξί και ενοικιαζόμενων αυτοκινήτων εν ώρα υπηρεσίας
-    Οχήματα διανομών που πραγματοποιούν συχνές στάσεις
-    Οδήγηση σε ρυθμό βαδίσματος
-    Υπηρεσίες μεταφορών όπου επιτρέπονται οι όρθιοι επιβάτες
-    Επιβάτες λεωφορείων και πούλμαν που σηκώνονται για λίγο από τη θέση τους
-6.Κόκκινο (ή πορτοκαλί που αναβοσβήνει) σε ισόπεδες διαβάσεις: 
-Πρέπει να σταματήσετε και να περιμένετε να ανάψει το σήμα διέλευσης(πράσινο).
-Κόκκινο βέλος που αναβοσβήνει σε ισόπεδες διαβάσεις: 
-Πρέπει να σταματήσετε και να περιμένετε μόνον εφόσον σκοπεύετε να στρίψετε προς την κατεύθυνση του βέλους.
-7.Γενικά όρια ταχύτητας (εκτός αν ορίζεται διαφορετικά στα σήματα της τροχαίας) [km/h]:
-   Επιβατικά αυτοκίνητα & ημιφορτηγά άνω των 3,5 t:
-    50km/h Αστικό οδικό δίκτυο
-    80km/h Μη αστικό οδικό δίκτυο
-    80km/h Αυτοκινητόδρομοι/οδοί ταχείας κυκλοφορίας
-   Επιβατικά αυτοκίνητα & ημιφορτηγά κάτω των 3,5 t
-    50km/h Αστικό οδικό δίκτυο
-    80km/h Μη αστικό οδικό δίκτυο
+5.The use of seat belts and child restraint systems is MANDATORY
+Seat belts are not compulsory for:
+drivers of taxis or hired passenger cars, on duty
+delivery vehicles making frequent stops
+driving at walking pace
+transport services where standing passengers are allowed
+operational staff on coaches and buses
+passengers on buses and coaches who briefly leave their seats
+Child seats are not compulsory for:
+transport services where standing passengers are allowed
+vehicles where there is no space for a third child seat and the child (over 3) sits in the back seat wearing a seat belt
+disabled children may be secured with special belts.
+6.Red light (or flashing amber light) at level crossings (rail/road intersections): you must stop and wait at the crossing sign.
+Flashing red arrow at level crossings: you must stop and wait only if intending to turn in the direction of the arrow.
+7.Passenger cars & vans with trailers
+Vehicles below 3.5 t
+Standard speed limits (unless otherwise stated by traffic signs) [km/h]	
+ 50kmUrban roads
+80kmNon-urban roads
+80kmMotorways/expressways
+Motorcycles
+Vehicles below 3.5 t
+Standard speed limits (unless otherwise stated by traffic signs) [km/h]	
+50kmUrban roads
+100kmNon-urban roads
+130kmMotorways/expressways
+8.0,0 mg/ml
+Novice drivers (less than 2 years' driving experience and under 21's)
+
+0,5 mg/ml
+Standard drivers (above 1.1 mg/ml is treated as a crime, 0.5-1.0 mg/ml the penalty is a fine)
+
+0,0 mg/ml
+Professional drivers (offenders can be sacked)
+
+9.Forbidden drugs
+THC (cannabis)
+
+Methylamphetamine
+
+MDMA (ecstasy)
+
+Morphine
+
+Cocaine
+10.The emergency lane may not be used except where this is expressly permitted (e.g. by road sign 223.1).A red light in the shape of a cross means that the lane may not be used (or stopped in)
+11.	Mopeds
+(Not mandatory for vehicles with maximum speed of 20 km/h)
+	
+Motorcycles with/without a sidecar
+	
+Light and heavy tricycles
+(Not mandatory for vehicles with maximum speed of 20 km/h)
+	
+Light and heavy quadricycles
+(Not mandatory for vehicles with maximum speed of 20 km/h)
+12.Drivers may not use their mobile phone without a hand-free set
+	
+Drivers may use their mobile phone with a hand-free set
+13.Safety equipment for cars
+First aid kit
+Warning triangle
+Reflective vest
+	
+Mandatory use of winter tyres
+	
+Safety equipment for cyclists
+Brakes
+Warning bell
+Lighting devices
+ITALY
+4.P
+5.Η χρήση ζώνης ασφαλείας και συστημάτων συγκράτησης παιδιών είναι υποχρεωτική
+6.Στο πράσινο οι οδηγοί ξεκινάνε να κινούνται με προσοχή και αντίθετα στο πορτοκαλί και στο κόκκινο σταματάνε.
+7.Γενικά όρια ταχύτητας (εκτός αν ορίζεται διαφορετικά στα σήματα της τροχαίας) [km/h]
+  Επιβατικά αυτοκίνητα & ημιφορτηγά κάτω των 3,5 t
+    50 km/h Αστικό οδικό δίκτυο	
+    90 km/h Μη αστικό οδικό δίκτυο
     130km/h Αυτοκινητόδρομοι/οδοί ταχείας κυκλοφορίας
+  Επιβατικά αυτοκίνητα & ημιφορτηγά άνω των 3,5 t  
+    50 km/h Αστικό οδικό δίκτυο	
+    70 km/h  Μη αστικό οδικό δίκτυο 
+    80 km/h Αυτοκινητόδρομοι/οδοί ταχείας κυκλοφορίας
    Μοτοσικλέτες κάτω των 3,5 t
-    50km/h Αστικό οδικό δίκτυο
-    100km/h Μη αστικό οδικό δίκτυο
-    130km/h Αυτοκινητόδρομοι/οδοί ταχείας κυκλοφορίας
+    50 km/h Αστικό οδικό δίκτυο
+    90 km/h Μη αστικό οδικό δίκτυο
+    130 km/h Αυτοκινητόδρομοι/οδοί ταχείας κυκλοφορίας
    Βαρέα φορτηγά άνω των 3,5 t
     50km/h Αστικό οδικό δίκτυο
     60km/h Μη αστικό οδικό δίκτυο
     80km/h Αυτοκινητόδρομοι/οδοί ταχείας κυκλοφορίας
-8.Αρχάριοι οδηγοί (κάτω των 21 ετών και με λιγότερο από 2 χρόνια εμπειρία οδήγησης):
-0,5 mg/ml
-Συνήθεις οδηγοί 
-     1,1 mg/ml θεωρείται αδίκημα
-    0.5-1,0 mg/ml επιβάλλεται πρόστιμο
-Επαγγελματίες οδηγοί 
-οι παραβάτες μπορεί να απολυθούν
-9.Απαγορευμένες ουσίες:
-    THC (κάνναβις)
-    Μεθυλαμφεταμίνη
-    MDMA (έκσταση)
-    Μορφίνη
-    Κοκαΐνη
-10.Λωρίδες για πεζούς, ποδηλάτες, ιππείς και αγροτικά οχήματα
-Απαγορεύεται η χρήση της λωρίδας έκτακτης ανάγκης, εκτός περιπτώσεων που η χρήση της επιτρέπεται ρητά με οδικό σήμα.
- Κόκκινο φωτεινό σήμα σε σχήμα (x) σημαίνει ότι απαγορεύεται η χρήση (ή η στάθμευση) στη λωρίδα αυτή.
- Οι ειδικές λωρίδες προορίζονται αποκλειστικά για λεωφορεία και πούλμαν που εκτελούν τακτικά δρομολόγια.
-11.Η χρήση προστατευτικού κράνους είναι υποχρεωτική σε οχήματα όπως:
+8.Συνήθεις οδηγοί
+   0,5 mg/ml
+  Αρχάριοι οδηγοί
+   0,0 mg/ml
+  Επαγγελματίες οδηγοί
+   0,0 mg/ml
+9.Απαγορευμένες ουσίες
+   THC (κάνναβις)
+   Μεθυλαμφεταμίνη
+   MDMA (έκσταση)
+10.Απαγορεύεται η χρήση της λωρίδας έκτακτης ανάγκης, εκτός περιπτώσεων που η χρήση της επιτρέπεται ρητά με οδικό σήμα.
+    Η αντικανονική χρήση της λωρίδας έκτακτης ανάγκης τιμωρείται.
+    11.Η χρήση προστατευτικού κράνους είναι υποχρεωτική σε οχήματα όπως:
     Μοτοποδήλατα
     Μοτοσικλέτες με/χωρίς καλάθι
     Ελαφρά και βαρέα τρίκυκλα
@@ -98,21 +157,8 @@ Aπαγορεύεται η οδήγηση κάτω από την χρήση απ
 12.Οι οδηγοί δεν επιτρέπεται να χρησιμοποιούν κινητό τηλέφωνο χωρίς σύστημα ανοιχτής ακρόασης
 Οι οδηγοί επιτρέπεται να χρησιμοποιούν κινητό με σύστημα ανοιχτής ακρόασης
 13.Εξοπλισμός ασφαλείας για αυτοκίνητα
-    Κουτί πρώτων βοηθειών
-    Προειδοποιητικό τρίγωνο
+    Τα φώτα ημέρας είναι υποχρεωτικά
     Αντανακλαστικό γιλέκο
-Υποχρεωτική χρήση χειμερινών ελαστικών
-Εξοπλισμός ασφαλείας για τους ποδηλάτες
-    Φρένα
-    Προειδοποιητικό κουδούνι
-    Διατάξεις φωτισμού
-
-ΙΤΑΛΙΑ
-5.Η χρήση ζώνης ασφαλείας και συστημάτων συγκράτησης παιδιών είναι υποχρεωτική
-6.Στο πράσινο οι οδηγοί ξεκινάνε να κινούνται με προσοχή και αντίθετα στο πορτοκαλί και στο κόκκινο σταματάνε.
-7.Γενικά όρια ταχύτητας (εκτός αν ορίζεται διαφορετικά στα σήματα της τροχαίας) [km/h]
-  Επιβατικά αυτοκίνητα & ημιφορτηγά κάτω των 3,5 t
-Αστικό οδικό δίκτυο	
-Μη αστικό οδικό δίκτυο
-Αυτοκινητόδρομοι/οδοί ταχείας κυκλοφορίας
+    Προειδοποιητικό τρίγωνο
+    Υποχρεωτική χρήση χειμερινών ελαστικών
 ΟΛΛΑΝΔΙΑ
