@@ -16,3 +16,13 @@
     color: white;
     justify-content: space-between;
 }
+
+.btn {
+    border-color: rgb(255, 255, 255);
+    border-width: 0.8px;
+    background-color: transparent;
+    color: white;
+}
+.btn:hover {
+    opacity:50%;
+}
