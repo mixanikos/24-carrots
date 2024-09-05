@@ -59,12 +59,19 @@ div {
 }
 .mapimage {
     z-index: 1;
-    width:1000px;
-    align-content:center;
+    width:100%;
+}
+.mapcon {
+    display:flex;
     justify-content: center;
+    align-items: center;
+    align-content: center;
+    align-self: center;
 }
 .germany {
     z-index: 2;
     position:absolute;
-    width:50%;
+    width:10%;
+    left:449px;
+    top:469px;
 }
