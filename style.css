@@ -1,0 +1,30 @@
+.logo {
+    width: 100px;
+}
+.logo-container {
+    align-items: center;
+    display:flex;
+
+}
+.webname {
+    color:white;
+}
+
+.navbar {
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    background-color:rgb(62, 62, 205);
+    color: white;
+    justify-content: space-between;
+}
+
+.btn {
+    border-color: rgb(255, 255, 255);
+    border-width: 0.8px;
+    background-color: transparent;
+    color: white;
+}
+.btn:hover {
+    opacity:50%;
+}
