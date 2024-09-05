@@ -1,0 +1,22 @@
+.logo {
+    width: 100px;
+}
+.logo-container {
+    display:flex;
+    flex-direction:row;
+    align-items: center;
+    background-color:rgb(62, 62, 205);
+    color: white;
+}
+body {
+    font-family: Arial, sans-serif;
+}
+.search-container {
+    margin: 20px;
+}
+.search-bar {
+width: 100%;
+padding: 10px;
+margin-bottom: 10px;
+box-sizing: border-box;
+}
