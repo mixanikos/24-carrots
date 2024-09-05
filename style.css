@@ -31,12 +31,11 @@
     opacity:50%;
 }
 .country-title {
+    display: flex;
     flex-direction: row;
     align-items: center;
 }
-div {
-    display: flex;
-}
 .country-flag {
+    display: flex;
     width: 60px;
 }
