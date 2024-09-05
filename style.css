@@ -54,8 +54,11 @@
 .germany {
     z-index: 2;
     position:absolute;
-    width:10%;
-    left:449px;
-    top:469px;
+    width:150px;
+    left:550px;
+    top:640px;
 }
-
+.germany:hover {
+    top:650px;
+    filter:drop-shadow(10px 10px 10px rgb(66, 66, 66));
+}
