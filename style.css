@@ -98,3 +98,7 @@ box-sizing: border-box;
     top:650px;
     filter:drop-shadow(10px 10px 10px rgb(66, 66, 66));
 }
+.search-n-btns {
+    display: flex;
+    flex-direction: row;
+}
