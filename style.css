@@ -34,9 +34,6 @@
     flex-direction: row;
     align-items: center;
 }
-div {
-    display: flex;
-}
 .country-flag {
     width: 60px;
 }
