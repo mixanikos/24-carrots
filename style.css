@@ -75,3 +75,26 @@ box-sizing: border-box;
     position:absolute;
     width:50%;
 }
+
+.mapimage {
+    z-index: 1;
+    width:100%;
+}
+.mapcon {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+}
+.germany {
+    z-index: 2;
+    position:absolute;
+    width:150px;
+    left:550px;
+    top:640px;
+}
+.germany:hover {
+    top:650px;
+    filter:drop-shadow(10px 10px 10px rgb(66, 66, 66));
+}
