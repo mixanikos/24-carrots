@@ -19,4 +19,52 @@ width: 100%;
 padding: 10px;
 margin-bottom: 10px;
 box-sizing: border-box;
+    align-items: center;
+    display:flex;
+
+}
+.webname {
+    color:white;
+}
+
+.navbar {
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    background-color:rgb(62, 62, 205);
+    color: white;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+.btn {
+    border-color: rgb(255, 255, 255);
+    border-width: 0.8px;
+    background-color: transparent;
+    color: white;
+    margin: 10px;
+}
+.btn:hover {
+    opacity:50%;
+}
+.country-title {
+    flex-direction: row;
+    align-items: center;
+}
+div {
+    display: flex;
+}
+.country-flag {
+    width: 60px;
+}
+.mapimage {
+    z-index: 1;
+    width:1000px;
+    align-content:center;
+    justify-content: center;
+}
+.germany {
+    z-index: 2;
+    position:absolute;
+    width:50%;
 }
