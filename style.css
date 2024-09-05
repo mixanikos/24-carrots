@@ -17,6 +17,7 @@
     background-color:rgb(62, 62, 205);
     color: white;
     justify-content: space-between;
+    margin-bottom: 50px;
 }
 
 .btn {
@@ -24,7 +25,18 @@
     border-width: 0.8px;
     background-color: transparent;
     color: white;
+    margin: 10px;
 }
 .btn:hover {
     opacity:50%;
+}
+.country-title {
+    flex-direction: row;
+    align-items: center;
+}
+div {
+    display: flex;
+}
+.country-flag {
+    width: 60px;
 }
