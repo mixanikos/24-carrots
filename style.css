@@ -1,0 +1,10 @@
+.logo {
+    width: 100px;
+}
+.logo-container {
+    display:flex;
+    flex-direction:row;
+    align-items: center;
+    background-color:rgb(62, 62, 205);
+    color: white;
+}
