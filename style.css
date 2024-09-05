@@ -6,7 +6,9 @@
     display:flex;
 
 }
-
+.webname {
+    color:white;
+}
 
 .navbar {
     display:flex;
