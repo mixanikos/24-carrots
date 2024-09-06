@@ -81,9 +81,6 @@ box-sizing: border-box;
     display:flex;
     justify-content: center;
     align-items: center;
-    /* align-content: center;
-    align-self: center;
-    position: relative; */
 }
 .circle {
     z-index: 2;
@@ -106,8 +103,6 @@ box-sizing: border-box;
     color: white;
     margin: 10px;
 }
-#francecir {
-    top: 90%;
-    left:30%;
-    position: absolute;
+.form-control {
+    margin:10px 0;
 }
