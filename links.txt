@@ -1,3 +1,0 @@
-https://www.shecodes.io/athena/50922-how-to-make-an-absolute-box-responsive-with-css#google_vignette
-https://developer.mozilla.org/en-US/docs/Web/CSS/z-index
-https://stackoverflow.com/questions/57764368/layering-png-in-html-css

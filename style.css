@@ -1,148 +1,147 @@
 .logo {
-    width: 100px;
-    margin-top: -10px;
-    margin-left: 10px;
-    margin-right: 10px;
+  width: 100px;
+  margin-top: -10px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 .logo-container {
-    display:flex;
-    flex-direction:row;
-    align-items: center;
-    background-color:rgb(62, 62, 205);
-    color: white;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: rgb(62, 62, 205);
+  color: white;
 }
 body {
-    font-family: Arial, sans-serif;
+  font-family: Arial, sans-serif;
 }
 .search-container {
-    margin: 20px;
+  margin: 20px;
 }
 .search-bar {
-width: 100%;
-padding: 10px;
-margin-bottom: 10px;
-box-sizing: border-box;
-    align-items: center;
-    display:flex;
-
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+  align-items: center;
+  display: flex;
 }
 .webname {
-    color:white;
+  color: white;
 }
 
 .navbar {
-    display:flex;
-    flex-direction:row;
-    align-items:center;
-    background-color:rgb(62, 62, 205);
-    color: white;
-    justify-content: space-between;
-    margin-bottom: 50px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: rgb(62, 62, 205);
+  color: white;
+  justify-content: space-between;
+  margin-bottom: 50px;
 }
 
 .navbar-start-page {
-    display:flex;
-    flex-direction:row;
-    align-items:center;
-    background-color:rgb(62, 62, 205);
-    color: white;
-    justify-content: space-between;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: rgb(62, 62, 205);
+  color: white;
+  justify-content: space-between;
 }
 
 .btn {
-    border-color: rgb(255, 255, 255);
-    border-width: 0.8px;
-    background-color: rgb(62, 62, 205);
-    color: white;
-    margin: 10px;
+  border-color: rgb(255, 255, 255);
+  border-width: 0.8px;
+  background-color: rgb(62, 62, 205);
+  color: white;
+  margin: 10px;
 }
 .btn:hover {
-    color:rgb(52, 24, 127);
-    background-color: rgb(199, 199, 220);
+  color: rgb(52, 24, 127);
+  background-color: rgb(199, 199, 220);
 }
 .country-title {
-    display: flex;
-    flex-direction: row;
-    align-self: center;
+  display: flex;
+  flex-direction: row;
+  align-self: center;
 }
 .country-flag {
-    display: flex;
-    width: 60px;
-    margin-left: 10px;
-    margin-right: 10px;
-    margin-top: -5px;
-    margin-bottom: 10px;
-    align-items: center;
+  display: flex;
+  width: 60px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: -5px;
+  margin-bottom: 10px;
+  align-items: center;
 }
 .mapimage {
-    z-index: 1;
-    width:1000px;
-    align-content:center;
-    justify-content: center;
+  z-index: 1;
+  width: 1000px;
+  align-content: center;
+  justify-content: center;
 }
 
-
 .mapimage {
-    z-index: 1;
-    width:100%;
-    position: relative;
+  z-index: 1;
+  width: 100%;
+  position: relative;
 }
 .mapcon {
-    display:flex;
-    justify-content: center;
-    align-items: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .circle {
-    z-index: 2;
-    position:absolute;
-    width:60px;
-    opacity:90%;
+  z-index: 2;
+  position: absolute;
+  width: 60px;
+  opacity: 90%;
 }
 
 .search-n-btns {
-    display: flex;
-    flex-direction: row;
+  display: flex;
+  flex-direction: row;
 }
-
 
 .form-control {
-    margin:10px 0;
+  margin: 10px 0;
 }
-.emailsafety{
-    color:gray;
-    font-size: 12px;
-    margin-left:2px;
+.emailsafety {
+  color: gray;
+  font-size: 12px;
+  margin-left: 2px;
 }
 .magbutt {
-    width:20px;
+  width: 20px;
 }
 .ppp {
-    display: flex;
-    flex-direction: row;
+  display: flex;
+  flex-direction: row;
 }
-.accordion-body{
-             
-                a:link {
-                  color: rgb(175, 21, 147);
-                  background-color: transparent;
-                  text-decoration: none;
-                }
+.accordion-body {
+  a:link {
+    color: rgb(175, 21, 147);
+    background-color: transparent;
+    text-decoration: none;
+  }
 
-                a:visited {
-                  color: rgb(62, 62, 205);
-                  background-color: transparent;
-                  text-decoration: none;
-                }
+  a:visited {
+    color: rgb(62, 62, 205);
+    background-color: transparent;
+    text-decoration: none;
+  }
 
-                a:hover {
-                  color: rgb(145, 3, 3);
-                  background-color: transparent;
-                  text-decoration: underline;
-                }
+  a:hover {
+    color: rgb(145, 3, 3);
+    background-color: transparent;
+    text-decoration: underline;
+  }
 
-                a:active {
-                  color: rgb(11, 151, 53);
-                  background-color: transparent;
-                  text-decoration: underline;
-                }
-            }
+  a:active {
+    color: rgb(11, 151, 53);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+}
+.title {
+  margin-left: 5%;
+}
