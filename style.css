@@ -70,29 +70,26 @@ box-sizing: border-box;
     align-content:center;
     justify-content: center;
 }
-.germany {
-    z-index: 2;
-    position:absolute;
-    width:50%;
-}
+
 
 .mapimage {
     z-index: 1;
     width:100%;
+    position: relative;
 }
 .mapcon {
     display:flex;
     justify-content: center;
     align-items: center;
-    align-content: center;
+    /* align-content: center;
     align-self: center;
+    position: relative; */
 }
-.germany {
+.circle {
     z-index: 2;
     position:absolute;
-    width:150px;
-    left:550px;
-    top:640px;
+    width:60px;
+    opacity:90%;
 }
 .germany:hover {
     top:650px;
@@ -108,4 +105,9 @@ box-sizing: border-box;
     background-color: rgb(62, 62, 205);
     color: white;
     margin: 10px;
+}
+#francecir {
+    top: 90%;
+    left:30%;
+    position: absolute;
 }
