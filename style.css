@@ -40,6 +40,15 @@ box-sizing: border-box;
     margin-bottom: 50px;
 }
 
+.navbar-start-page {
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    background-color:rgb(62, 62, 205);
+    color: white;
+    justify-content: space-between;
+}
+
 .btn {
     border-color: rgb(255, 255, 255);
     border-width: 0.8px;
@@ -106,4 +115,8 @@ box-sizing: border-box;
 }
 .magbutt {
     width:20px;
+}
+.ppp {
+    display: flex;
+    flex-direction: row;
 }
