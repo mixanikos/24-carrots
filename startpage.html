@@ -16,22 +16,29 @@
     <link rel="icon" type="image/x-icon" href="web icon transparent.png">
   </head>
   <body>
-     <div class="navbar">
-            <a href="startpage.html">
-              <div class="logo-container">
-               <img class="logo" src="web icon transparent.png">
-               <h2 class="webname"><b>Driving Safety EU</b></h2>
-              </div>
-            </a>
-            <div class="search-n-btns">
-                <div class="search-container">
-                    <input type="text" class="search-bar" placeholder="Search for a country..." oninput="filterCountries(this.value)">
-                   
-                </div>        
-             <button type="button" class="btn">About</button>
-             <button type="button" class="btn">Contact</button>
-            </div>
+    <div class="navbar">
+      <a href="startpage.html">
+        <div class="logo-container">
+          <img class="logo" src="web icon transparent.png" />
+          <h2 class="webname"><b>Driving Safety EU</b></h2>
         </div>
+      </a>
+
+      <div class="search-n-btns">
+        <a class="btn btn-primary" href="about.html" role="button">About</a>
+        <a class="btn btn-primary" href="contact.html" role="button">Contact</a>
+
+        <form class="d-flex" role="search">
+          <input
+            class="form-control me-2"
+            type="search"
+            placeholder="Search"
+            aria-label="Search"
+          />
+          <button class="btn btn-outline-success" type="submit">Search</button>
+        </form>
+      </div>
+    </div>
         
         <script>
             // Placeholder function to mimic search functionality
