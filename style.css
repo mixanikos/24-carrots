@@ -43,7 +43,7 @@ box-sizing: border-box;
 .btn {
     border-color: rgb(255, 255, 255);
     border-width: 0.8px;
-    background-color: transparent;
+    background-color: rgb(62, 62, 205);
     color: white;
     margin: 10px;
 }
@@ -81,9 +81,6 @@ box-sizing: border-box;
     display:flex;
     justify-content: center;
     align-items: center;
-    /* align-content: center;
-    align-self: center;
-    position: relative; */
 }
 .circle {
     z-index: 2;
@@ -91,23 +88,21 @@ box-sizing: border-box;
     width:60px;
     opacity:90%;
 }
-.germany:hover {
-    top:650px;
-    filter:drop-shadow(10px 10px 10px rgb(66, 66, 66));
-}
+
 .search-n-btns {
     display: flex;
     flex-direction: row;
 }
-.btn-submit {
-    border-color: rgb(255, 255, 255);
-    border-width: 0.8px;
-    background-color: rgb(62, 62, 205);
-    color: white;
-    margin: 10px;
+
+
+.form-control {
+    margin:10px 0;
 }
-#francecir {
-    top: 90%;
-    left:30%;
-    position: absolute;
+.emailsafety{
+    color:gray;
+    font-size: 12px;
+    margin-left:2px;
+}
+.magbutt {
+    width:20px;
 }
