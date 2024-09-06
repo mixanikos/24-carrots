@@ -1,4 +1,55 @@
-ΒΕΛΓΙΟ
+louxembourg:
+4:symbol  blue L time of use 2 years
+5:The use of seat belts is not compulsory for:
+drivers and passengers of motor vehicles providing door-to-door services in municipal areas that require repeated exit and entering of vehicles;
+persons with an exemption certificate for serious medical reasons issued by the Ministry of Transport;
+drivers when moving a vehicle backwards;
+police members whose job prevents the use of safety belt systems for security reasons;
+fireman brigades whose job prevents the use of safety belt systems for security reasons;
+handicapped persons with reduced mobility, using wheel chairs or especially adapted seats;
+accompanying personnel in buses and coaches who are in charge of assisting or supervising passengers;
+passengers of buses and coaches who use their seats temporally.
+6:Red light: do not cross the stop line or pass the light.
+Amber light precedes the red light: stop unless you are already too close to stop safely when the light changes.
+Green light: drive.
+7: 50 km/h Urban roads
+90km/h Non-urban roads
+130 mk/h Motorways/expressways
+110 km/h in rain.
+8:0,5 mg/ml
+Standard drivers
+0,2 mg/ml
+Novice drivers
+0,2 mg/ml
+Professional drivers
+9:Απαγορευμένες ουσίες
+Forbidden drugs
+THC (cannabis)
+Methylamphetamine
+MDMA (ecstasy)
+Amphetamine
+MDA
+Free morphine
+Cocaine
+Benzoylecgonine
+10:safety helmet is mandatory
+Mopeds
+Drivers are exempted from this obligation when the vehicle is fitted with a body structure (but in such case there is mandatory use of seatbelts).
+Motorcycles with/without a sidecar
+Drivers are exempted from this obligation when the vehicle is fitted with a body structure (but in such case there is mandatory use of seatbelts).
+Light and heavy tricycles
+Light and heavy quadricycles
+11:Drivers cannot use lanes that are closed (e.g. for construction) or whose use is illegal (e.g. motorway emergency lane) or that are reserved for other road users (bus lane, cycle lane, etc.).
+12:	Use of mobile phone without hand-free.
+Use of mobile phone with hand-free set.
+13:	
+Safety equipment for cars
+warning triangle
+reflective vest (for cars not registered in Luxembourg, only the use of a reflective vest is mandatory under certain circumstances)
+Mandatory use of winter tyres
+For all vehicles on public roads, in wintery conditions (snow and ice).
+
+
 
 ΓΑΛΛΙΑ:
 4:Συμβολο Α χρονοσ χρησης του τρια χρονια
@@ -42,6 +93,7 @@ Aπαγορεύεται η οδήγηση κάτω από την χρήση απ
 Αντανακλαστικό γιλέκο/πανωφόρι (αυτοκίνητα, φορτηγά, λεωφορεία, μοτοσυκλέτες, μοτοποδήλατα και ελκυστήρες) για χρήση σε περίπτωση βλάβης, ατυχήματος ή άλλου προβλήματος στον δρόμο
 Όλοι οι οδηγοί (και οι επιβάτες) μοτοσυκλετών και μοτοποδηλάτων πρέπει να φορούν πιστοποιημένα γάντια	
 Από την 1η Νοεμβρίου έως τις 31 Μαρτίου, τα χειμερινά ελαστικά (ή η κατοχή αντιολισθητικών αλυσίδων) είναι υποχρεωτικά στις ορεινές περιοχές όταν αυτή η πινακίδα οδικής σήμανσης είναι τοποθετημένη παραπλεύρως της οδού
+<<<<<<< Updated upstream
 ΛΟΥΞΕΜΒΟΥΡΓΟ
 
 GERMANY
@@ -224,3 +276,136 @@ Light and heavy quadricycles
 Drivers may use their mobile phone with a hand-free set
 13.Safety equipment for cars
 Warning triangle
+=======
+belgium:
+4:symbol black  L time of use 3 years
+5:The use of seat belts and child restraint systems is MANDATORY (Directive 91/671/EEC as amended).
+Seats belts are not compulsory for:
+drivers when reversing
+taxi drivers when transporting a client
+drivers and passengers of priority vehicles under certain conditions
+people exempt for medical reasons
+postal vehicles making frequent stops
+Child seats are not compulsory for:
+children under 18 and shorter than 135 cm in buses and taxis sitting on the back seat
+children at least 3 years old and shorter than 135 cm wearing seat belts in the back seat during short-term occasional transport in cars and vans.
+6:Red light: do not cross the stop line or pass the light.
+Amber light precedes the red light: stop unless you are already too close to stop safely when the light changes.
+Green light: drive.
+7:Standard speed limits (unless otherwise stated by traffic signs) [km/h]
+Urban roads
+20 km/h in residential areas.
+30 km/h near schools and in streets with cycle paths
+ 50 km/h Outside built-up areas
+ 120 km/h Public roads with two or more lanes in each direction, separated by road markings; and other public roads.
+ 70 km/h Outside built-up areas in the Flemish Region
+ Public roads with two or more lanes in each direction, separated by road markings; and other public roads.
+ 120 km/h Motorways and roads with two or more lanes in each direction, not separated by road markings.
+8:0.5 mg/ml
+Standard drivers
+0.5 mg/ml
+Novice drivers
+0.2 mg/ml
+Professional drivers
+9:Forbidden drugs
+THC (cannabis) (≥1 ng/ml)
+Methylamphetamine(≥25 ng/ml)
+MDMA (ecstasy) (≥25 ng/ml)
+Amphetamine (≥25 ng/ml)
+Morphine or 6-acetylmorphine (≥10 ng/ml)
+Cocaine or benzoylecgonine (≥25 ng/ml)
+10:In bicycle priority lanes, cyclists may use the whole breadth of one-way streets, and the whole right lane of two-lane streets. Access to bicycle priority lanes is permitted to motor vehicles, but they:
+may not overtake cyclists;
+may not drive faster than 30 km/h.
+Pedestrian areas
+Access to pedestrian areas is normally reserved for pedestrians.
+Where indicated, pedestrian areas may be used by delivery vehicles, taxis picking up or dropping off passengers, and cyclists. Drivers authorised to enter these areas must drive at walking pace and give way to pedestrians.
+Cyclists must dismount if there are so many pedestrians that it is difficult to cycle around them.
+Lanes reserved for public transport services
+Some lanes are reserved for regular public transport services.
+Bus lane
+Indication of lanes reserved for regular public transport services
+Motorways
+Access to motorways is prohibited to drivers of agricultural vehicles and to drivers of vehicles or vehicles with trailers who cannot reach the speed of 70 km/h on a horizontal road.
+On a motorway, the maximum authorised speed is 120 km/h, except where road signs impose a different speed limit.
+Residential areas
+The whole of public road may be used by pedestrians, and playing is also permitted.
+Motorists may not endanger or obstruct pedestrians. They must stop if necessary.
+11:safety helmet is mandatory
+Mopeds
+(except those with an enclosed compartment for the driver)
+Motorbikes with or without a sidecar
+(except those with a seatbelt and enclosed compartment for the driver)
+Tricycles (light & heavy )
+(except those with an enclosed compartment for the driver)
+Quadricycles (light & heavy)
+(except those with an enclosed compartment for the driver)
+Speed pedelecs: bicycle helmet or moped helmet
+12:Drivers may not use their mobile phone without a hand-free set
+Drivers may use their mobile phone with a hand-free set
+13:Car safety equipment:
+Warning triangle
+Safety equipment for bikes and electric scooters (also for segways, monowheels, powered wheelchairs, etc.):
+White or yellow front lights & red back lights
+White front reflectors and red tail reflectors
+Working brakes
+Users of vehicles such as electric scooters, segways, monowheels, powered wheelchairs, etc. are regarded either as pedestrians or cyclists, depending on the speed at which they travel:
+if their speed exceeds walking pace (± 5 km/h), they must follow the same rules as cyclists. In that case, they may, for example, use bicycle priority lanes or restricted one-way streets. The maximum speed limit for these vehicles is 25 km/h.
+if they travel at walking pace, the rules applying to them are often the same as the rules applying to pedestrians.
+It is prohibited to leave an electric scooter in an area where it is obstructing other road users, including pedestrians. Parking is sometimes prohibited in certain neighbourhoods. If you are hiring a scooter, visit the website of the relevant town to check where you should leave the scooter at the end of the rental period. In some cities there is a local parking prohibition and/or designated zones to park your scooter.
+Safety vest
+Drivers must wear a retro-reflective safety vest when outside a broken-down vehicle parked on motorways and motor vehicle roads in an area where stopping and parking are prohibited.
+Austria
+4:symbol black A time of use 1 year
+5:The use of seat belts and child restraint systems is MANDATORY 
+Seat belts are not compulsory for:
+drivers while reversing or parking
+People who cannot use seat belts because of their size or those with disabilities.
+drivers of emergency or official vehicles
+taxi driver on duty
+regular services below 100 km
+seriously physically disabled children, if transported in the back seat
+children transported in ambulances or public safety vehicles, if sitting in the back seat.
+children transported in taxis, if sitting in the back seat
+Passengers in buses leaving the seat for a short time.
+6:Flashing green light warns that a change to amber is imminent.
+Amber light: stop unless you are already too close to stop safely when the light changes
+7:ehicles below 3.5 t
+Standard speed limits (unless otherwise stated by traffic signs) [km/h]
+50 km/h Urban roads
+70 km/h Non-urban roads 
+ 130 km/h Motorways/expressways
+8:< 0,5 mg/ml
+Standard drivers (from 0.8 mg/ml, withdrawal of driving licence)
+0,1 mg/ml
+Novice drivers (less than 3 years' driving experience)
+0,1 mg/ml
+Professional drivers
+9:Forbidden drugs
+It is forbidden to drive whilst under the influence of any type of drug that impairs performance. There are no rules concerning specific type of drugs.
+10:Reserved lanes may be used only by public transport services e.g. buses.
+There are also other types of lanes to which access is restricted.
+11:	safety helmet is mandatory
+Mopeds
+Bicycles
+(Only for children up to 12 years.)
+Motorcycles with/without a sidecar
+Light and heavy tricycles
+Light and heavy quadricycles
+12:	Drivers may not use their mobile phone without a hand-free set
+Drivers may use their mobile phone with a hand-free set
+13:eadlamp is mandatory even during daylight hours, but only for motorcycles and mopeds
+Safety equipment for cars
+First-aid kit
+Warning triangle
+Reflective jacket vest
+Mandatory use of winter tyres
+Mandatory use of winter tyres for vehicles above 3.5 tonnes (trucks between 1 November and 15 April, buses between 1 November and 1 March). For vehicles below 3.5 tonnes, winter tyres are only mandatory if the road is covered with snow or ice.
+
+
+
+
+
+
+
+>>>>>>> Stashed changes
