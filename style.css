@@ -120,3 +120,29 @@ box-sizing: border-box;
     display: flex;
     flex-direction: row;
 }
+.accordion-body{
+             
+                a:link {
+                  color: rgb(175, 21, 147);
+                  background-color: transparent;
+                  text-decoration: none;
+                }
+
+                a:visited {
+                  color: rgb(62, 62, 205);
+                  background-color: transparent;
+                  text-decoration: none;
+                }
+
+                a:hover {
+                  color: rgb(145, 3, 3);
+                  background-color: transparent;
+                  text-decoration: underline;
+                }
+
+                a:active {
+                  color: rgb(11, 151, 53);
+                  background-color: transparent;
+                  text-decoration: underline;
+                }
+            }
